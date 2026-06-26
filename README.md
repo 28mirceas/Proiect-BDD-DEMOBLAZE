@@ -1,5 +1,5 @@
 # BDD Demoblaze Project – Test Automation with Behave & Selenium
-![CI](https://github.com/28mirceas/BDD-Demoblaze-Automation-Testing/actions/workflows/behave-tests.yml/badge.svg)
+![CI](https://github.com/28mirceas/Proiect-BDD-DEMOBLAZE/actions/workflows/behave-tests.yml/badge.svg)
 
 ## About the Project
 
