@@ -36,9 +36,4 @@ jobs:
         run: |
           behave 
 
-      - name: Upload report
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: behave-report
-          path: report.html
+      
