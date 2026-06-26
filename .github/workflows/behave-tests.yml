@@ -34,7 +34,7 @@ jobs:
 
       - name: Run Behave tests
         run: |
-          behave -f html -o report.html
+          behave 
 
       - name: Upload report
         if: always()
